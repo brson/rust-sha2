@@ -1,6 +1,6 @@
 [package]
 name = "sha2"
-version = "0.1.0"
+version = "0.1.1-pre"
 authors = ["The Rust-Crypto Project Developers"]
 description = "Pure Rust SHA-2"
 
