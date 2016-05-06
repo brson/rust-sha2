@@ -14,3 +14,5 @@ pub mod symmetriccipher;
 mod cryptoutil;
 #[path = "rust-crypto/src/simd.rs"]
 mod simd;
+
+pub use sha2::*;
