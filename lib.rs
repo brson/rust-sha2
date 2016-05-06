@@ -16,3 +16,4 @@ mod cryptoutil;
 mod simd;
 
 pub use sha2::*;
+pub use digest::Digest;
