@@ -1,0 +1,3 @@
+[submodule "rust-crypto"]
+	path = rust-crypto
+	url = https://github.com/DaGenix/rust-crypto/
